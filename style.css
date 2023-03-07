@@ -27,7 +27,7 @@ body {
   min-height: 100vh;
   font-family: "Red Hat Text", sans-serif;
   font-size: 0.875rem;
-  background-image: url(./images/bg-stars.svg);
+  background-image: url(images/bg-stars.svg);
   background-repeat: repeat-y;
   background-size: cover;
   background-position: 40%;
@@ -136,7 +136,7 @@ body {
     fill:var(--Num-clr)
 }
 .hills  {
-   background-image: url(./images/pattern-hills.svg);
+   background-image: url(images/pattern-hills.svg);
    background-size:cover;
    position: absolute;
    height: 30vh;
